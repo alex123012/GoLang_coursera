@@ -160,5 +160,3 @@ func main() {
 
 	http.ListenAndServe(":"+port, mux)
 }
-
-// api key bb7dcd20875c4764a01474b7af6407a0
