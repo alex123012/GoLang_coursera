@@ -1,1 +1,4 @@
-// +heroku goVersion go1.17
+module github.com/alex123012/Golang_site
+
+go 1.17
+
