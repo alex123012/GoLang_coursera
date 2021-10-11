@@ -1,3 +1,3 @@
-module github.com/alex123012/Golang_site
+// +heroku install github.com/alex123012/Golang_site
 
-go1.17.2
+// +heroku goVersion go1.17.2
